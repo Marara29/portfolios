@@ -157,4 +157,4 @@ Based on above data research :
 
 # Non technical takeaway
 
-This project has built my confidence in working with SQL and as a data scientist ,It increades my knowledge in dealing with data analytics , and whole project was fun and inspiring as my Aim is to those top salaries range ,lol
+Glad to share some insights computed with help of SQL about this job_market out here hope it will narrow everyone job's hunting field ,I focused mainly on analytical jobs  and whole project was fun and inspiring as my aim is to be among those top salaries range ,lol ( I mean who doesn't)
